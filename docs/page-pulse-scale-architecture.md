@@ -1,8 +1,8 @@
-# Page Pulse at Scale
+# SiteScan Pro at Scale
 
 ## Problem statement
 
-Page Pulse must handle roughly 10,000 audits per day, bursts of up to 500 concurrent requests, and a customer-facing response-time SLA. The current single-node request path is fine for a demo, but at production scale it needs bounded admission, repeatable work, and explicit state placement.
+SiteScan Pro must handle roughly 10,000 audits per day, bursts of up to 500 concurrent requests, and a customer-facing response-time SLA. The current single-node request path is fine for a demo, but at production scale it needs bounded admission, repeatable work, and explicit state placement.
 
 ## Architecture
 

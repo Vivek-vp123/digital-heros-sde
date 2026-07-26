@@ -18,7 +18,7 @@ function buildConfig(overrides: Partial<AppConfig> = {}): AppConfig {
   };
 }
 
-describe('page pulse app', () => {
+describe('SiteScan Pro app', () => {
   it('returns structured validation errors and request IDs', async () => {
     const app = createApp(buildConfig(), new InMemoryRedis(), pino({ level: 'silent' }), createTestFetch());
 

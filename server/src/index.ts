@@ -14,6 +14,6 @@ async function main() {
 }
 
 main().catch((error) => {
-  console.error('Failed to start Page Pulse', error);
+  console.error('Failed to start SiteScan Pro', error);
   process.exit(1);
 });

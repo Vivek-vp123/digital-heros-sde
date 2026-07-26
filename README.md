@@ -1,6 +1,6 @@
-# Page Pulse
+# SiteScan Pro
 
-Page Pulse is a production-grade URL audit service built with React, Vite, Express, Redis, Jest, Zod, and Pino.
+SiteScan Pro is a production-grade URL audit service built with React, Vite, Express, Redis, Jest, Zod, and Pino.
 
 ## What it does
 
